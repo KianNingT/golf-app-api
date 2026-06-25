@@ -1,0 +1,80 @@
+{
+  "data": {
+    "id": 6,
+    "name": "Viktor Hovland",
+    "country": "Norway",
+    "club": "7-Iron",
+    "avatarUrl": "https://i.pravatar.cc/150?img=6",
+    "averageSpeed": 169.8,
+    "averageDistance": 251.2,
+    "totalShots": 305,
+    "bio": "Norwegian star and FedEx Cup champion, known for his upbeat personality and exceptional iron control.",
+    "age": 26,
+    "turnsProYear": 2019,
+    "majorWins": 0,
+    "totalWins": 8,
+    "scoringAverage": 69.7,
+    "greensInRegulation": 66.9,
+    "drivingAccuracy": 60.4,
+    "puttingAverage": 1.79,
+    "shots": [
+      {
+        "shotId": 1,
+        "club": "7-Iron",
+        "ballSpeed": 123.4,
+        "launchAngle": 18.1,
+        "distance": 169.8,
+        "spinRate": 7240,
+        "carryDistance": 163.7,
+        "peakHeight": 85.6,
+        "landingAngle": 50.8
+      },
+      {
+        "shotId": 2,
+        "club": "Driver",
+        "ballSpeed": 169.8,
+        "launchAngle": 11.6,
+        "distance": 256.3,
+        "spinRate": 2840,
+        "carryDistance": 237.4,
+        "peakHeight": 94.1,
+        "landingAngle": 40.1
+      },
+      {
+        "shotId": 3,
+        "club": "5-Iron",
+        "ballSpeed": 145.2,
+        "launchAngle": 14.8,
+        "distance": 204.6,
+        "spinRate": 5140,
+        "carryDistance": 197.3,
+        "peakHeight": 90.7,
+        "landingAngle": 46.8
+      },
+      {
+        "shotId": 4,
+        "club": "7-Iron",
+        "ballSpeed": 124.9,
+        "launchAngle": 17.7,
+        "distance": 171.4,
+        "spinRate": 7080,
+        "carryDistance": 165.1,
+        "peakHeight": 86.8,
+        "landingAngle": 49.7
+      },
+      {
+        "shotId": 5,
+        "club": "3-Iron",
+        "ballSpeed": 158.4,
+        "launchAngle": 13.4,
+        "distance": 229.8,
+        "spinRate": 4120,
+        "carryDistance": 220.1,
+        "peakHeight": 81.4,
+        "landingAngle": 43.2
+      }
+    ]
+  },
+  "message": "Player fetched successfully",
+  "timestamp": "2025-01-15T08:00:00Z"
+}
