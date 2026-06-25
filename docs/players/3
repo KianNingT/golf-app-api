@@ -1,0 +1,80 @@
+{
+  "data": {
+    "id": 3,
+    "name": "Jon Rahm",
+    "country": "Spain",
+    "club": "3-Iron",
+    "avatarUrl": "https://i.pravatar.cc/150?img=3",
+    "averageSpeed": 178.9,
+    "averageDistance": 272.3,
+    "totalShots": 341,
+    "bio": "Former world number one from Spain, Masters champion in 2023 and US Open champion in 2021.",
+    "age": 29,
+    "turnsProYear": 2016,
+    "majorWins": 2,
+    "totalWins": 24,
+    "scoringAverage": 69.4,
+    "greensInRegulation": 67.4,
+    "drivingAccuracy": 62.8,
+    "puttingAverage": 1.76,
+    "shots": [
+      {
+        "shotId": 1,
+        "club": "3-Iron",
+        "ballSpeed": 162.1,
+        "launchAngle": 12.8,
+        "distance": 238.4,
+        "spinRate": 3920,
+        "carryDistance": 228.1,
+        "peakHeight": 84.2,
+        "landingAngle": 42.1
+      },
+      {
+        "shotId": 2,
+        "club": "Driver",
+        "ballSpeed": 178.9,
+        "launchAngle": 10.4,
+        "distance": 279.6,
+        "spinRate": 2710,
+        "carryDistance": 260.2,
+        "peakHeight": 96.8,
+        "landingAngle": 38.4
+      },
+      {
+        "shotId": 3,
+        "club": "7-Iron",
+        "ballSpeed": 126.4,
+        "launchAngle": 17.6,
+        "distance": 174.2,
+        "spinRate": 6980,
+        "carryDistance": 168.3,
+        "peakHeight": 87.1,
+        "landingAngle": 49.2
+      },
+      {
+        "shotId": 4,
+        "club": "5-Iron",
+        "ballSpeed": 147.2,
+        "launchAngle": 14.6,
+        "distance": 208.7,
+        "spinRate": 5080,
+        "carryDistance": 201.4,
+        "peakHeight": 91.7,
+        "landingAngle": 46.3
+      },
+      {
+        "shotId": 5,
+        "club": "3-Iron",
+        "ballSpeed": 163.8,
+        "launchAngle": 12.2,
+        "distance": 242.1,
+        "spinRate": 3780,
+        "carryDistance": 232.4,
+        "peakHeight": 83.6,
+        "landingAngle": 41.8
+      }
+    ]
+  },
+  "message": "Player fetched successfully",
+  "timestamp": "2025-01-15T08:00:00Z"
+}
