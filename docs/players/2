@@ -1,0 +1,80 @@
+{
+  "data": {
+    "id": 2,
+    "name": "Rory McIlroy",
+    "country": "Northern Ireland",
+    "club": "Driver",
+    "avatarUrl": "https://i.pravatar.cc/150?img=2",
+    "averageSpeed": 191.2,
+    "averageDistance": 311.6,
+    "totalShots": 298,
+    "bio": "Four-time major champion and former world number one, known for his explosive driving and consistency.",
+    "age": 35,
+    "turnsProYear": 2007,
+    "majorWins": 4,
+    "totalWins": 35,
+    "scoringAverage": 68.9,
+    "greensInRegulation": 69.1,
+    "drivingAccuracy": 58.9,
+    "puttingAverage": 1.77,
+    "shots": [
+      {
+        "shotId": 1,
+        "club": "Driver",
+        "ballSpeed": 191.2,
+        "launchAngle": 11.1,
+        "distance": 318.4,
+        "spinRate": 2520,
+        "carryDistance": 296.7,
+        "peakHeight": 103.1,
+        "landingAngle": 36.8
+      },
+      {
+        "shotId": 2,
+        "club": "Driver",
+        "ballSpeed": 188.4,
+        "launchAngle": 10.7,
+        "distance": 309.2,
+        "spinRate": 2580,
+        "carryDistance": 288.4,
+        "peakHeight": 99.6,
+        "landingAngle": 37.2
+      },
+      {
+        "shotId": 3,
+        "club": "7-Iron",
+        "ballSpeed": 131.6,
+        "launchAngle": 17.2,
+        "distance": 183.7,
+        "spinRate": 6740,
+        "carryDistance": 177.4,
+        "peakHeight": 91.3,
+        "landingAngle": 47.9
+      },
+      {
+        "shotId": 4,
+        "club": "3-Iron",
+        "ballSpeed": 162.3,
+        "launchAngle": 12.4,
+        "distance": 241.8,
+        "spinRate": 3840,
+        "carryDistance": 231.2,
+        "peakHeight": 86.4,
+        "landingAngle": 41.6
+      },
+      {
+        "shotId": 5,
+        "club": "Driver",
+        "ballSpeed": 192.8,
+        "launchAngle": 10.9,
+        "distance": 321.1,
+        "spinRate": 2490,
+        "carryDistance": 299.3,
+        "peakHeight": 104.7,
+        "landingAngle": 36.2
+      }
+    ]
+  },
+  "message": "Player fetched successfully",
+  "timestamp": "2025-01-15T08:00:00Z"
+}
