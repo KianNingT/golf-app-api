@@ -1,0 +1,80 @@
+{
+  "data": {
+    "id": 4,
+    "name": "Scottie Scheffler",
+    "country": "USA",
+    "club": "Driver",
+    "avatarUrl": "https://i.pravatar.cc/150?img=4",
+    "averageSpeed": 186.7,
+    "averageDistance": 301.4,
+    "totalShots": 315,
+    "bio": "World number one ranked golfer, Masters champion known for his ball-striking consistency and mental composure.",
+    "age": 27,
+    "turnsProYear": 2018,
+    "majorWins": 2,
+    "totalWins": 12,
+    "scoringAverage": 67.9,
+    "greensInRegulation": 71.2,
+    "drivingAccuracy": 63.1,
+    "puttingAverage": 1.75,
+    "shots": [
+      {
+        "shotId": 1,
+        "club": "Driver",
+        "ballSpeed": 186.7,
+        "launchAngle": 10.6,
+        "distance": 304.8,
+        "spinRate": 2630,
+        "carryDistance": 283.1,
+        "peakHeight": 100.4,
+        "landingAngle": 37.6
+      },
+      {
+        "shotId": 2,
+        "club": "5-Iron",
+        "ballSpeed": 149.8,
+        "launchAngle": 14.1,
+        "distance": 214.2,
+        "spinRate": 4870,
+        "carryDistance": 207.3,
+        "peakHeight": 95.1,
+        "landingAngle": 44.8
+      },
+      {
+        "shotId": 3,
+        "club": "Driver",
+        "ballSpeed": 188.2,
+        "launchAngle": 10.9,
+        "distance": 308.6,
+        "spinRate": 2590,
+        "carryDistance": 287.4,
+        "peakHeight": 102.3,
+        "landingAngle": 37.1
+      },
+      {
+        "shotId": 4,
+        "club": "7-Iron",
+        "ballSpeed": 129.7,
+        "launchAngle": 16.4,
+        "distance": 181.3,
+        "spinRate": 6710,
+        "carryDistance": 174.8,
+        "peakHeight": 89.2,
+        "landingAngle": 48.1
+      },
+      {
+        "shotId": 5,
+        "club": "3-Iron",
+        "ballSpeed": 163.2,
+        "launchAngle": 12.6,
+        "distance": 239.7,
+        "spinRate": 3860,
+        "carryDistance": 229.8,
+        "peakHeight": 85.6,
+        "landingAngle": 41.3
+      }
+    ]
+  },
+  "message": "Player fetched successfully",
+  "timestamp": "2025-01-15T08:00:00Z"
+}
