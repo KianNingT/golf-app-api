@@ -1,0 +1,80 @@
+{
+  "data": {
+    "id": 7,
+    "name": "Collin Morikawa",
+    "country": "USA",
+    "club": "3-Iron",
+    "avatarUrl": "https://i.pravatar.cc/150?img=7",
+    "averageSpeed": 172.5,
+    "averageDistance": 261.7,
+    "totalShots": 278,
+    "bio": "Two-time major champion celebrated as one of the best ball-strikers in the game, especially with his irons.",
+    "age": 27,
+    "turnsProYear": 2019,
+    "majorWins": 2,
+    "totalWins": 7,
+    "scoringAverage": 69.2,
+    "greensInRegulation": 72.4,
+    "drivingAccuracy": 66.3,
+    "puttingAverage": 1.81,
+    "shots": [
+      {
+        "shotId": 1,
+        "club": "3-Iron",
+        "ballSpeed": 160.8,
+        "launchAngle": 13.0,
+        "distance": 235.6,
+        "spinRate": 3960,
+        "carryDistance": 226.2,
+        "peakHeight": 83.1,
+        "landingAngle": 42.4
+      },
+      {
+        "shotId": 2,
+        "club": "Driver",
+        "ballSpeed": 172.5,
+        "launchAngle": 11.8,
+        "distance": 264.9,
+        "spinRate": 2810,
+        "carryDistance": 245.3,
+        "peakHeight": 95.7,
+        "landingAngle": 39.8
+      },
+      {
+        "shotId": 3,
+        "club": "7-Iron",
+        "ballSpeed": 122.6,
+        "launchAngle": 18.4,
+        "distance": 167.3,
+        "spinRate": 7360,
+        "carryDistance": 161.4,
+        "peakHeight": 84.9,
+        "landingAngle": 51.2
+      },
+      {
+        "shotId": 4,
+        "club": "3-Iron",
+        "ballSpeed": 161.9,
+        "launchAngle": 12.7,
+        "distance": 237.4,
+        "spinRate": 3880,
+        "carryDistance": 228.1,
+        "peakHeight": 82.7,
+        "landingAngle": 41.9
+      },
+      {
+        "shotId": 5,
+        "club": "5-Iron",
+        "ballSpeed": 146.3,
+        "launchAngle": 14.6,
+        "distance": 206.1,
+        "spinRate": 5020,
+        "carryDistance": 198.9,
+        "peakHeight": 92.3,
+        "landingAngle": 46.1
+      }
+    ]
+  },
+  "message": "Player fetched successfully",
+  "timestamp": "2025-01-15T08:00:00Z"
+}
