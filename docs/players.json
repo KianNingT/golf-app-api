@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Tiger Woods",
+      "country": "USA",
+      "club": "Driver",
+      "avatarUrl": "https://i.pravatar.cc/150?img=1",
+      "averageSpeed": 182.4,
+      "averageDistance": 285.6,
+      "totalShots": 320
+    },
+    {
+      "id": 2,
+      "name": "Rory McIlroy",
+      "country": "Northern Ireland",
+      "club": "Driver",
+      "avatarUrl": "https://i.pravatar.cc/150?img=2",
+      "averageSpeed": 191.2,
+      "averageDistance": 311.6,
+      "totalShots": 298
+    },
+    {
+      "id": 3,
+      "name": "Jon Rahm",
+      "country": "Spain",
+      "club": "3-Iron",
+      "avatarUrl": "https://i.pravatar.cc/150?img=3",
+      "averageSpeed": 178.9,
+      "averageDistance": 272.3,
+      "totalShots": 341
+    },
+    {
+      "id": 4,
+      "name": "Scottie Scheffler",
+      "country": "USA",
+      "club": "Driver",
+      "avatarUrl": "https://i.pravatar.cc/150?img=4",
+      "averageSpeed": 186.7,
+      "averageDistance": 301.4,
+      "totalShots": 315
+    },
+    {
+      "id": 5,
+      "name": "Xander Schauffele",
+      "country": "USA",
+      "club": "5-Iron",
+      "avatarUrl": "https://i.pravatar.cc/150?img=5",
+      "averageSpeed": 174.3,
+      "averageDistance": 268.9,
+      "totalShots": 287
+    },
+    {
+      "id": 6,
+      "name": "Viktor Hovland",
+      "country": "Norway",
+      "club": "7-Iron",
+      "avatarUrl": "https://i.pravatar.cc/150?img=6",
+      "averageSpeed": 169.8,
+      "averageDistance": 251.2,
+      "totalShots": 305
+    },
+    {
+      "id": 7,
+      "name": "Collin Morikawa",
+      "country": "USA",
+      "club": "3-Iron",
+      "avatarUrl": "https://i.pravatar.cc/150?img=7",
+      "averageSpeed": 172.5,
+      "averageDistance": 261.7,
+      "totalShots": 278
+    },
+    {
+      "id": 8,
+      "name": "Patrick Cantlay",
+      "country": "USA",
+      "club": "5-Iron",
+      "avatarUrl": "https://i.pravatar.cc/150?img=8",
+      "averageSpeed": 176.1,
+      "averageDistance": 269.4,
+      "totalShots": 293
+    },
+    {
+      "id": 9,
+      "name": "Max Homa",
+      "country": "USA",
+      "club": "7-Iron",
+      "avatarUrl": "https://i.pravatar.cc/150?img=9",
+      "averageSpeed": 168.4,
+      "averageDistance": 248.7,
+      "totalShots": 311
+    },
+    {
+      "id": 10,
+      "name": "Shane Lowry",
+      "country": "Ireland",
+      "club": "Driver",
+      "avatarUrl": "https://i.pravatar.cc/150?img=10",
+      "averageSpeed": 177.3,
+      "averageDistance": 274.1,
+      "totalShots": 326
+    }
+  ],
+  "message": "Players fetched successfully",
+  "timestamp": "2025-01-15T08:00:00Z"
+}
