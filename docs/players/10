@@ -1,0 +1,80 @@
+{
+  "data": {
+    "id": 10,
+    "name": "Shane Lowry",
+    "country": "Ireland",
+    "club": "Driver",
+    "avatarUrl": "https://i.pravatar.cc/150?img=10",
+    "averageSpeed": 177.3,
+    "averageDistance": 274.1,
+    "totalShots": 326,
+    "bio": "The Open Championship winner in 2019, beloved for his passionate style and versatile all-around game.",
+    "age": 37,
+    "turnsProYear": 2009,
+    "majorWins": 1,
+    "totalWins": 7,
+    "scoringAverage": 69.6,
+    "greensInRegulation": 66.2,
+    "drivingAccuracy": 62.4,
+    "puttingAverage": 1.78,
+    "shots": [
+      {
+        "shotId": 1,
+        "club": "Driver",
+        "ballSpeed": 177.3,
+        "launchAngle": 10.8,
+        "distance": 276.4,
+        "spinRate": 2720,
+        "carryDistance": 256.8,
+        "peakHeight": 97.6,
+        "landingAngle": 38.7
+      },
+      {
+        "shotId": 2,
+        "club": "5-Iron",
+        "ballSpeed": 146.8,
+        "launchAngle": 14.5,
+        "distance": 207.4,
+        "spinRate": 4980,
+        "carryDistance": 200.2,
+        "peakHeight": 91.9,
+        "landingAngle": 46.0
+      },
+      {
+        "shotId": 3,
+        "club": "7-Iron",
+        "ballSpeed": 125.3,
+        "launchAngle": 17.8,
+        "distance": 172.6,
+        "spinRate": 7020,
+        "carryDistance": 166.4,
+        "peakHeight": 87.4,
+        "landingAngle": 49.4
+      },
+      {
+        "shotId": 4,
+        "club": "Driver",
+        "ballSpeed": 178.6,
+        "launchAngle": 10.5,
+        "distance": 278.9,
+        "spinRate": 2680,
+        "carryDistance": 259.3,
+        "peakHeight": 98.2,
+        "landingAngle": 38.3
+      },
+      {
+        "shotId": 5,
+        "club": "3-Iron",
+        "ballSpeed": 159.2,
+        "launchAngle": 13.2,
+        "distance": 231.7,
+        "spinRate": 4060,
+        "carryDistance": 222.1,
+        "peakHeight": 82.3,
+        "landingAngle": 43.5
+      }
+    ]
+  },
+  "message": "Player fetched successfully",
+  "timestamp": "2025-01-15T08:00:00Z"
+}
