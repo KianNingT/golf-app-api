@@ -1,0 +1,80 @@
+{
+  "data": {
+    "id": 22,
+    "name": "Cameron Smith",
+    "country": "Australia",
+    "club": "5-Iron",
+    "avatarUrl": "https://i.pravatar.cc/150?img=22",
+    "averageSpeed": 174.9,
+    "averageDistance": 267.4,
+    "totalShots": 316,
+    "bio": "The Open Championship winner in 2022, known for his putting wizardry and aggressive course management.",
+    "age": 30,
+    "turnsProYear": 2015,
+    "majorWins": 1,
+    "totalWins": 12,
+    "scoringAverage": 68.8,
+    "greensInRegulation": 66.6,
+    "drivingAccuracy": 62.8,
+    "puttingAverage": 1.70,
+    "shots": [
+      {
+        "shotId": 1,
+        "club": "5-Iron",
+        "ballSpeed": 148.2,
+        "launchAngle": 14.3,
+        "distance": 211.6,
+        "spinRate": 4960,
+        "carryDistance": 204.3,
+        "peakHeight": 93.6,
+        "landingAngle": 45.4
+      },
+      {
+        "shotId": 2,
+        "club": "Driver",
+        "ballSpeed": 174.9,
+        "launchAngle": 11.1,
+        "distance": 269.8,
+        "spinRate": 2760,
+        "carryDistance": 250.3,
+        "peakHeight": 97.0,
+        "landingAngle": 39.2
+      },
+      {
+        "shotId": 3,
+        "club": "7-Iron",
+        "ballSpeed": 125.6,
+        "launchAngle": 17.7,
+        "distance": 172.8,
+        "spinRate": 7010,
+        "carryDistance": 166.6,
+        "peakHeight": 87.5,
+        "landingAngle": 49.5
+      },
+      {
+        "shotId": 4,
+        "club": "3-Iron",
+        "ballSpeed": 160.6,
+        "launchAngle": 12.8,
+        "distance": 235.9,
+        "spinRate": 3940,
+        "carryDistance": 226.4,
+        "peakHeight": 83.7,
+        "landingAngle": 42.2
+      },
+      {
+        "shotId": 5,
+        "club": "5-Iron",
+        "ballSpeed": 149.1,
+        "launchAngle": 14.1,
+        "distance": 213.2,
+        "spinRate": 4900,
+        "carryDistance": 205.9,
+        "peakHeight": 94.2,
+        "landingAngle": 45.0
+      }
+    ]
+  },
+  "message": "Player fetched successfully",
+  "timestamp": "2025-01-15T08:00:00Z"
+}
