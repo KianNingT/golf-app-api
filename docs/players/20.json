@@ -1,0 +1,80 @@
+{
+  "data": {
+    "id": 20,
+    "name": "Matt Fitzpatrick",
+    "country": "England",
+    "club": "7-Iron",
+    "avatarUrl": "https://i.pravatar.cc/150?img=20",
+    "averageSpeed": 167.3,
+    "averageDistance": 246.1,
+    "totalShots": 289,
+    "bio": "US Open champion in 2022, renowned for his meticulous approach to course management and precise iron play.",
+    "age": 29,
+    "turnsProYear": 2014,
+    "majorWins": 1,
+    "totalWins": 9,
+    "scoringAverage": 69.6,
+    "greensInRegulation": 69.8,
+    "drivingAccuracy": 67.4,
+    "puttingAverage": 1.75,
+    "shots": [
+      {
+        "shotId": 1,
+        "club": "7-Iron",
+        "ballSpeed": 121.8,
+        "launchAngle": 18.7,
+        "distance": 166.9,
+        "spinRate": 7420,
+        "carryDistance": 160.7,
+        "peakHeight": 84.3,
+        "landingAngle": 51.6
+      },
+      {
+        "shotId": 2,
+        "club": "Driver",
+        "ballSpeed": 167.3,
+        "launchAngle": 12.0,
+        "distance": 249.6,
+        "spinRate": 2910,
+        "carryDistance": 230.4,
+        "peakHeight": 92.7,
+        "landingAngle": 40.8
+      },
+      {
+        "shotId": 3,
+        "club": "5-Iron",
+        "ballSpeed": 143.1,
+        "launchAngle": 15.2,
+        "distance": 200.4,
+        "spinRate": 5240,
+        "carryDistance": 193.2,
+        "peakHeight": 89.4,
+        "landingAngle": 47.6
+      },
+      {
+        "shotId": 4,
+        "club": "7-Iron",
+        "ballSpeed": 122.9,
+        "launchAngle": 18.4,
+        "distance": 168.7,
+        "spinRate": 7280,
+        "carryDistance": 162.6,
+        "peakHeight": 85.1,
+        "landingAngle": 51.0
+      },
+      {
+        "shotId": 5,
+        "club": "3-Iron",
+        "ballSpeed": 157.6,
+        "launchAngle": 13.5,
+        "distance": 228.4,
+        "spinRate": 4160,
+        "carryDistance": 218.9,
+        "peakHeight": 80.9,
+        "landingAngle": 43.8
+      }
+    ]
+  },
+  "message": "Player fetched successfully",
+  "timestamp": "2025-01-15T08:00:00Z"
+}
