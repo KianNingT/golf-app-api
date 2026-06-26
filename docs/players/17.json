@@ -1,0 +1,80 @@
+{
+  "data": {
+    "id": 17,
+    "name": "Hideki Matsuyama",
+    "country": "Japan",
+    "club": "3-Iron",
+    "avatarUrl": "https://i.pravatar.cc/150?img=17",
+    "averageSpeed": 179.4,
+    "averageDistance": 276.8,
+    "totalShots": 322,
+    "bio": "Masters champion in 2021 and the first Japanese male golfer to win a major, known for his powerful and precise ball striking.",
+    "age": 32,
+    "turnsProYear": 2013,
+    "majorWins": 1,
+    "totalWins": 10,
+    "scoringAverage": 69.2,
+    "greensInRegulation": 68.1,
+    "drivingAccuracy": 61.7,
+    "puttingAverage": 1.79,
+    "shots": [
+      {
+        "shotId": 1,
+        "club": "3-Iron",
+        "ballSpeed": 163.1,
+        "launchAngle": 12.6,
+        "distance": 239.4,
+        "spinRate": 3850,
+        "carryDistance": 229.7,
+        "peakHeight": 84.6,
+        "landingAngle": 41.7
+      },
+      {
+        "shotId": 2,
+        "club": "Driver",
+        "ballSpeed": 179.4,
+        "launchAngle": 10.6,
+        "distance": 278.9,
+        "spinRate": 2690,
+        "carryDistance": 259.2,
+        "peakHeight": 98.1,
+        "landingAngle": 38.6
+      },
+      {
+        "shotId": 3,
+        "club": "7-Iron",
+        "ballSpeed": 127.6,
+        "launchAngle": 17.0,
+        "distance": 176.3,
+        "spinRate": 6870,
+        "carryDistance": 170.1,
+        "peakHeight": 88.3,
+        "landingAngle": 48.7
+      },
+      {
+        "shotId": 4,
+        "club": "5-Iron",
+        "ballSpeed": 149.1,
+        "launchAngle": 14.0,
+        "distance": 213.6,
+        "spinRate": 4880,
+        "carryDistance": 206.3,
+        "peakHeight": 94.7,
+        "landingAngle": 44.9
+      },
+      {
+        "shotId": 5,
+        "club": "3-Iron",
+        "ballSpeed": 164.2,
+        "launchAngle": 12.4,
+        "distance": 241.3,
+        "spinRate": 3810,
+        "carryDistance": 231.6,
+        "peakHeight": 85.1,
+        "landingAngle": 41.4
+      }
+    ]
+  },
+  "message": "Player fetched successfully",
+  "timestamp": "2025-01-15T08:00:00Z"
+}
