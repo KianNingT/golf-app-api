@@ -1,0 +1,80 @@
+{
+  "data": {
+    "id": 25,
+    "name": "Joaquin Niemann",
+    "country": "Chile",
+    "club": "Driver",
+    "avatarUrl": "https://i.pravatar.cc/150?img=25",
+    "averageSpeed": 188.3,
+    "averageDistance": 306.7,
+    "totalShots": 309,
+    "bio": "Chilean prodigy and one of the longest hitters on tour, known for his explosive swing speed and fearless attacking style.",
+    "age": 25,
+    "turnsProYear": 2018,
+    "majorWins": 0,
+    "totalWins": 6,
+    "scoringAverage": 69.0,
+    "greensInRegulation": 67.8,
+    "drivingAccuracy": 57.6,
+    "puttingAverage": 1.78,
+    "shots": [
+      {
+        "shotId": 1,
+        "club": "Driver",
+        "ballSpeed": 188.3,
+        "launchAngle": 10.7,
+        "distance": 309.4,
+        "spinRate": 2510,
+        "carryDistance": 288.2,
+        "peakHeight": 103.6,
+        "landingAngle": 36.5
+      },
+      {
+        "shotId": 2,
+        "club": "Driver",
+        "ballSpeed": 190.1,
+        "launchAngle": 10.4,
+        "distance": 313.8,
+        "spinRate": 2470,
+        "carryDistance": 292.4,
+        "peakHeight": 105.1,
+        "landingAngle": 36.0
+      },
+      {
+        "shotId": 3,
+        "club": "5-Iron",
+        "ballSpeed": 152.4,
+        "launchAngle": 13.7,
+        "distance": 219.2,
+        "spinRate": 4770,
+        "carryDistance": 211.8,
+        "peakHeight": 97.1,
+        "landingAngle": 44.0
+      },
+      {
+        "shotId": 4,
+        "club": "7-Iron",
+        "ballSpeed": 131.9,
+        "launchAngle": 16.1,
+        "distance": 184.7,
+        "spinRate": 6640,
+        "carryDistance": 178.2,
+        "peakHeight": 91.6,
+        "landingAngle": 47.5
+      },
+      {
+        "shotId": 5,
+        "club": "3-Iron",
+        "ballSpeed": 166.2,
+        "launchAngle": 12.0,
+        "distance": 245.6,
+        "spinRate": 3730,
+        "carryDistance": 235.7,
+        "peakHeight": 87.2,
+        "landingAngle": 40.7
+      }
+    ]
+  },
+  "message": "Player fetched successfully",
+  "timestamp": "2025-01-15T08:00:00Z"
+}
