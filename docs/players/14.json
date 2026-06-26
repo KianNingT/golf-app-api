@@ -1,0 +1,80 @@
+{
+  "data": {
+    "id": 14,
+    "name": "Brooks Koepka",
+    "country": "USA",
+    "club": "Driver",
+    "avatarUrl": "https://i.pravatar.cc/150?img=14",
+    "averageSpeed": 184.6,
+    "averageDistance": 294.7,
+    "totalShots": 297,
+    "bio": "Five-time major champion who thrives under pressure, particularly in US Opens and PGA Championships.",
+    "age": 34,
+    "turnsProYear": 2012,
+    "majorWins": 5,
+    "totalWins": 10,
+    "scoringAverage": 68.8,
+    "greensInRegulation": 67.1,
+    "drivingAccuracy": 59.7,
+    "puttingAverage": 1.77,
+    "shots": [
+      {
+        "shotId": 1,
+        "club": "Driver",
+        "ballSpeed": 184.6,
+        "launchAngle": 10.3,
+        "distance": 297.4,
+        "spinRate": 2600,
+        "carryDistance": 276.8,
+        "peakHeight": 100.7,
+        "landingAngle": 37.8
+      },
+      {
+        "shotId": 2,
+        "club": "Driver",
+        "ballSpeed": 186.3,
+        "launchAngle": 10.0,
+        "distance": 301.2,
+        "spinRate": 2560,
+        "carryDistance": 280.4,
+        "peakHeight": 102.1,
+        "landingAngle": 37.3
+      },
+      {
+        "shotId": 3,
+        "club": "7-Iron",
+        "ballSpeed": 130.4,
+        "launchAngle": 16.5,
+        "distance": 182.1,
+        "spinRate": 6750,
+        "carryDistance": 175.6,
+        "peakHeight": 89.8,
+        "landingAngle": 48.2
+      },
+      {
+        "shotId": 4,
+        "club": "5-Iron",
+        "ballSpeed": 151.3,
+        "launchAngle": 13.9,
+        "distance": 217.6,
+        "spinRate": 4820,
+        "carryDistance": 210.2,
+        "peakHeight": 96.3,
+        "landingAngle": 44.4
+      },
+      {
+        "shotId": 5,
+        "club": "3-Iron",
+        "ballSpeed": 164.7,
+        "launchAngle": 12.3,
+        "distance": 242.8,
+        "spinRate": 3820,
+        "carryDistance": 232.9,
+        "peakHeight": 85.2,
+        "landingAngle": 41.1
+      }
+    ]
+  },
+  "message": "Player fetched successfully",
+  "timestamp": "2025-01-15T08:00:00Z"
+}
