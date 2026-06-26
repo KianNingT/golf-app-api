@@ -1,0 +1,80 @@
+{
+  "data": {
+    "id": 11,
+    "name": "Justin Thomas",
+    "country": "USA",
+    "club": "Driver",
+    "avatarUrl": "https://i.pravatar.cc/150?img=11",
+    "averageSpeed": 180.3,
+    "averageDistance": 279.8,
+    "totalShots": 308,
+    "bio": "Two-time PGA Championship winner and former world number one, known for his fiery competitive spirit.",
+    "age": 31,
+    "turnsProYear": 2013,
+    "majorWins": 2,
+    "totalWins": 15,
+    "scoringAverage": 68.7,
+    "greensInRegulation": 67.8,
+    "drivingAccuracy": 60.9,
+    "puttingAverage": 1.75,
+    "shots": [
+      {
+        "shotId": 1,
+        "club": "Driver",
+        "ballSpeed": 180.3,
+        "launchAngle": 10.4,
+        "distance": 282.6,
+        "spinRate": 2650,
+        "carryDistance": 262.4,
+        "peakHeight": 99.1,
+        "landingAngle": 38.4
+      },
+      {
+        "shotId": 2,
+        "club": "5-Iron",
+        "ballSpeed": 150.2,
+        "launchAngle": 14.0,
+        "distance": 215.4,
+        "spinRate": 4850,
+        "carryDistance": 208.1,
+        "peakHeight": 95.6,
+        "landingAngle": 44.7
+      },
+      {
+        "shotId": 3,
+        "club": "7-Iron",
+        "ballSpeed": 128.9,
+        "launchAngle": 16.6,
+        "distance": 179.3,
+        "spinRate": 6780,
+        "carryDistance": 173.1,
+        "peakHeight": 89.4,
+        "landingAngle": 48.0
+      },
+      {
+        "shotId": 4,
+        "club": "3-Iron",
+        "ballSpeed": 163.4,
+        "launchAngle": 12.5,
+        "distance": 240.7,
+        "spinRate": 3870,
+        "carryDistance": 230.3,
+        "peakHeight": 84.8,
+        "landingAngle": 41.5
+      },
+      {
+        "shotId": 5,
+        "club": "Driver",
+        "ballSpeed": 181.7,
+        "launchAngle": 10.1,
+        "distance": 284.9,
+        "spinRate": 2620,
+        "carryDistance": 264.8,
+        "peakHeight": 97.3,
+        "landingAngle": 37.9
+      }
+    ]
+  },
+  "message": "Player fetched successfully",
+  "timestamp": "2025-01-15T08:00:00Z"
+}
