@@ -1,0 +1,80 @@
+{
+  "data": {
+    "id": 21,
+    "name": "Tyrrell Hatton",
+    "country": "England",
+    "club": "3-Iron",
+    "avatarUrl": "https://i.pravatar.cc/150?img=21",
+    "averageSpeed": 171.2,
+    "averageDistance": 257.6,
+    "totalShots": 303,
+    "bio": "Fiery competitor and Arnold Palmer Invitational champion, known for his emotional play and excellent iron striking.",
+    "age": 32,
+    "turnsProYear": 2012,
+    "majorWins": 0,
+    "totalWins": 10,
+    "scoringAverage": 69.7,
+    "greensInRegulation": 67.3,
+    "drivingAccuracy": 63.1,
+    "puttingAverage": 1.78,
+    "shots": [
+      {
+        "shotId": 1,
+        "club": "3-Iron",
+        "ballSpeed": 159.8,
+        "launchAngle": 13.1,
+        "distance": 233.4,
+        "spinRate": 4020,
+        "carryDistance": 223.8,
+        "peakHeight": 82.4,
+        "landingAngle": 42.9
+      },
+      {
+        "shotId": 2,
+        "club": "Driver",
+        "ballSpeed": 171.2,
+        "launchAngle": 11.6,
+        "distance": 259.8,
+        "spinRate": 2820,
+        "carryDistance": 240.4,
+        "peakHeight": 95.3,
+        "landingAngle": 39.7
+      },
+      {
+        "shotId": 3,
+        "club": "7-Iron",
+        "ballSpeed": 122.8,
+        "launchAngle": 18.2,
+        "distance": 168.4,
+        "spinRate": 7200,
+        "carryDistance": 162.3,
+        "peakHeight": 85.7,
+        "landingAngle": 50.7
+      },
+      {
+        "shotId": 4,
+        "club": "5-Iron",
+        "ballSpeed": 145.6,
+        "launchAngle": 14.6,
+        "distance": 205.3,
+        "spinRate": 5080,
+        "carryDistance": 198.1,
+        "peakHeight": 91.4,
+        "landingAngle": 46.3
+      },
+      {
+        "shotId": 5,
+        "club": "3-Iron",
+        "ballSpeed": 160.9,
+        "launchAngle": 12.9,
+        "distance": 235.1,
+        "spinRate": 3970,
+        "carryDistance": 225.4,
+        "peakHeight": 83.0,
+        "landingAngle": 42.5
+      }
+    ]
+  },
+  "message": "Player fetched successfully",
+  "timestamp": "2025-01-15T08:00:00Z"
+}
