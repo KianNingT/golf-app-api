@@ -16,6 +16,6 @@
 { "id": 24, "name": "Keegan Bradley", "country": "USA", "club": "Driver", "avatarUrl": "https://i.pravatar.cc/150?img=24", "averageSpeed": 178.1, "averageDistance": 273.4, "totalShots": 294 },
 { "id": 25, "name": "Joaquin Niemann", "country": "Chile", "club": "Driver", "avatarUrl": "https://i.pravatar.cc/150?img=25", "averageSpeed": 188.3, "averageDistance": 306.7, "totalShots": 309 }
   ],
-  "message": "Players fetched successfully",
+  "message": "Players fetched successfullyy",
   "timestamp": "2025-01-15T08:00:00Z"
 }
