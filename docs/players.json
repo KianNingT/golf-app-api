@@ -1,4 +1,6 @@
-{ "id": 11, "name": "Justin Thomas", "country": "USA", "club": "Driver", "avatarUrl": "https://i.pravatar.cc/150?img=11", "averageSpeed": 180.3, "averageDistance": 279.8, "totalShots": 308 },
+{
+  "data": [
+    { "id": 11, "name": "Justin Thomas", "country": "USA", "club": "Driver", "avatarUrl": "https://i.pravatar.cc/150?img=11", "averageSpeed": 180.3, "averageDistance": 279.8, "totalShots": 308 },
 { "id": 12, "name": "Jordan Spieth", "country": "USA", "club": "5-Iron", "avatarUrl": "https://i.pravatar.cc/150?img=12", "averageSpeed": 171.6, "averageDistance": 258.4, "totalShots": 319 },
 { "id": 13, "name": "Dustin Johnson", "country": "USA", "club": "Driver", "avatarUrl": "https://i.pravatar.cc/150?img=13", "averageSpeed": 192.4, "averageDistance": 317.2, "totalShots": 334 },
 { "id": 14, "name": "Brooks Koepka", "country": "USA", "club": "Driver", "avatarUrl": "https://i.pravatar.cc/150?img=14", "averageSpeed": 184.6, "averageDistance": 294.7, "totalShots": 297 },
@@ -13,3 +15,7 @@
 { "id": 23, "name": "Sungjae Im", "country": "South Korea", "club": "7-Iron", "avatarUrl": "https://i.pravatar.cc/150?img=23", "averageSpeed": 168.7, "averageDistance": 249.6, "totalShots": 328 },
 { "id": 24, "name": "Keegan Bradley", "country": "USA", "club": "Driver", "avatarUrl": "https://i.pravatar.cc/150?img=24", "averageSpeed": 178.1, "averageDistance": 273.4, "totalShots": 294 },
 { "id": 25, "name": "Joaquin Niemann", "country": "Chile", "club": "Driver", "avatarUrl": "https://i.pravatar.cc/150?img=25", "averageSpeed": 188.3, "averageDistance": 306.7, "totalShots": 309 }
+  ],
+  "message": "Players fetched successfully",
+  "timestamp": "2025-01-15T08:00:00Z"
+}
