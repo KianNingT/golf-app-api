@@ -1,0 +1,80 @@
+{
+  "data": {
+    "id": 12,
+    "name": "Jordan Spieth",
+    "country": "USA",
+    "club": "5-Iron",
+    "avatarUrl": "https://i.pravatar.cc/150?img=12",
+    "averageSpeed": 171.6,
+    "averageDistance": 258.4,
+    "totalShots": 319,
+    "bio": "Three-time major champion and former world number one, celebrated for his exceptional putting and short game.",
+    "age": 30,
+    "turnsProYear": 2012,
+    "majorWins": 3,
+    "totalWins": 13,
+    "scoringAverage": 69.0,
+    "greensInRegulation": 66.4,
+    "drivingAccuracy": 63.5,
+    "puttingAverage": 1.71,
+    "shots": [
+      {
+        "shotId": 1,
+        "club": "5-Iron",
+        "ballSpeed": 146.1,
+        "launchAngle": 14.7,
+        "distance": 207.8,
+        "spinRate": 5010,
+        "carryDistance": 200.4,
+        "peakHeight": 92.6,
+        "landingAngle": 46.2
+      },
+      {
+        "shotId": 2,
+        "club": "Driver",
+        "ballSpeed": 171.6,
+        "launchAngle": 11.5,
+        "distance": 261.2,
+        "spinRate": 2800,
+        "carryDistance": 241.8,
+        "peakHeight": 96.0,
+        "landingAngle": 39.6
+      },
+      {
+        "shotId": 3,
+        "club": "7-Iron",
+        "ballSpeed": 123.2,
+        "launchAngle": 18.0,
+        "distance": 169.1,
+        "spinRate": 7160,
+        "carryDistance": 163.0,
+        "peakHeight": 85.3,
+        "landingAngle": 50.4
+      },
+      {
+        "shotId": 4,
+        "club": "3-Iron",
+        "ballSpeed": 159.4,
+        "launchAngle": 13.0,
+        "distance": 232.6,
+        "spinRate": 4040,
+        "carryDistance": 223.1,
+        "peakHeight": 82.7,
+        "landingAngle": 43.0
+      },
+      {
+        "shotId": 5,
+        "club": "5-Iron",
+        "ballSpeed": 147.3,
+        "launchAngle": 14.5,
+        "distance": 209.4,
+        "spinRate": 4970,
+        "carryDistance": 202.1,
+        "peakHeight": 93.2,
+        "landingAngle": 45.8
+      }
+    ]
+  },
+  "message": "Player fetched successfully",
+  "timestamp": "2025-01-15T08:00:00Z"
+}
