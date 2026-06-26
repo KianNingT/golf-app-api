@@ -1,6 +1,105 @@
-{
-  "data": [
-    { "id": 11, "name": "Justin Thomas", "country": "USA", "club": "Driver", "avatarUrl": "https://i.pravatar.cc/150?img=11", "averageSpeed": 180.3, "averageDistance": 279.8, "totalShots": 308 },
+[
+  {
+    "id": 1,
+    "name": "Tiger Woods",
+    "country": "USA",
+    "club": "Driver",
+    "avatarUrl": "https://i.pravatar.cc/150?img=1",
+    "averageSpeed": 182.4,
+    "averageDistance": 285.6,
+    "totalShots": 320
+  },
+  {
+    "id": 2,
+    "name": "Rory McIlroy",
+    "country": "Northern Ireland",
+    "club": "Driver",
+    "avatarUrl": "https://i.pravatar.cc/150?img=2",
+    "averageSpeed": 191.2,
+    "averageDistance": 311.6,
+    "totalShots": 298
+  },
+  {
+    "id": 3,
+    "name": "Jon Rahm",
+    "country": "Spain",
+    "club": "3-Iron",
+    "avatarUrl": "https://i.pravatar.cc/150?img=3",
+    "averageSpeed": 178.9,
+    "averageDistance": 272.3,
+    "totalShots": 341
+  },
+  {
+    "id": 4,
+    "name": "Scottie Scheffler",
+    "country": "USA",
+    "club": "Driver",
+    "avatarUrl": "https://i.pravatar.cc/150?img=4",
+    "averageSpeed": 186.7,
+    "averageDistance": 301.4,
+    "totalShots": 315
+  },
+  {
+    "id": 5,
+    "name": "Xander Schauffele",
+    "country": "USA",
+    "club": "5-Iron",
+    "avatarUrl": "https://i.pravatar.cc/150?img=5",
+    "averageSpeed": 174.3,
+    "averageDistance": 268.9,
+    "totalShots": 287
+  },
+  {
+    "id": 6,
+    "name": "Viktor Hovland",
+    "country": "Norway",
+    "club": "7-Iron",
+    "avatarUrl": "https://i.pravatar.cc/150?img=6",
+    "averageSpeed": 169.8,
+    "averageDistance": 251.2,
+    "totalShots": 305
+  },
+  {
+    "id": 7,
+    "name": "Collin Morikawa",
+    "country": "USA",
+    "club": "3-Iron",
+    "avatarUrl": "https://i.pravatar.cc/150?img=7",
+    "averageSpeed": 172.5,
+    "averageDistance": 261.7,
+    "totalShots": 278
+  },
+  {
+    "id": 8,
+    "name": "Patrick Cantlay",
+    "country": "USA",
+    "club": "5-Iron",
+    "avatarUrl": "https://i.pravatar.cc/150?img=8",
+    "averageSpeed": 176.1,
+    "averageDistance": 269.4,
+    "totalShots": 293
+  },
+  {
+    "id": 9,
+    "name": "Max Homa",
+    "country": "USA",
+    "club": "7-Iron",
+    "avatarUrl": "https://i.pravatar.cc/150?img=9",
+    "averageSpeed": 168.4,
+    "averageDistance": 248.7,
+    "totalShots": 311
+  },
+  {
+    "id": 10,
+    "name": "Shane Lowry",
+    "country": "Ireland",
+    "club": "Driver",
+    "avatarUrl": "https://i.pravatar.cc/150?img=10",
+    "averageSpeed": 177.3,
+    "averageDistance": 274.1,
+    "totalShots": 326
+  },
+  { "id": 11, "name": "Justin Thomas", "country": "USA", "club": "Driver", "avatarUrl": "https://i.pravatar.cc/150?img=11", "averageSpeed": 180.3, "averageDistance": 279.8, "totalShots": 308 },
 { "id": 12, "name": "Jordan Spieth", "country": "USA", "club": "5-Iron", "avatarUrl": "https://i.pravatar.cc/150?img=12", "averageSpeed": 171.6, "averageDistance": 258.4, "totalShots": 319 },
 { "id": 13, "name": "Dustin Johnson", "country": "USA", "club": "Driver", "avatarUrl": "https://i.pravatar.cc/150?img=13", "averageSpeed": 192.4, "averageDistance": 317.2, "totalShots": 334 },
 { "id": 14, "name": "Brooks Koepka", "country": "USA", "club": "Driver", "avatarUrl": "https://i.pravatar.cc/150?img=14", "averageSpeed": 184.6, "averageDistance": 294.7, "totalShots": 297 },
@@ -15,7 +114,4 @@
 { "id": 23, "name": "Sungjae Im", "country": "South Korea", "club": "7-Iron", "avatarUrl": "https://i.pravatar.cc/150?img=23", "averageSpeed": 168.7, "averageDistance": 249.6, "totalShots": 328 },
 { "id": 24, "name": "Keegan Bradley", "country": "USA", "club": "Driver", "avatarUrl": "https://i.pravatar.cc/150?img=24", "averageSpeed": 178.1, "averageDistance": 273.4, "totalShots": 294 },
 { "id": 25, "name": "Joaquin Niemann", "country": "Chile", "club": "Driver", "avatarUrl": "https://i.pravatar.cc/150?img=25", "averageSpeed": 188.3, "averageDistance": 306.7, "totalShots": 309 }
-  ],
-  "message": "Players fetched successfullyy",
-  "timestamp": "2025-01-15T08:00:00Z"
-}
+]
