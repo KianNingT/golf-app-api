@@ -1,0 +1,80 @@
+{
+  "data": {
+    "id": 16,
+    "name": "Adam Scott",
+    "country": "Australia",
+    "club": "Driver",
+    "avatarUrl": "https://i.pravatar.cc/150?img=16",
+    "averageSpeed": 176.8,
+    "averageDistance": 271.6,
+    "totalShots": 301,
+    "bio": "Masters champion in 2013 and one of the most elegant swingers in the history of professional golf.",
+    "age": 44,
+    "turnsProYear": 2000,
+    "majorWins": 1,
+    "totalWins": 31,
+    "scoringAverage": 69.4,
+    "greensInRegulation": 66.8,
+    "drivingAccuracy": 63.9,
+    "puttingAverage": 1.76,
+    "shots": [
+      {
+        "shotId": 1,
+        "club": "Driver",
+        "ballSpeed": 176.8,
+        "launchAngle": 10.7,
+        "distance": 274.3,
+        "spinRate": 2700,
+        "carryDistance": 254.6,
+        "peakHeight": 97.8,
+        "landingAngle": 38.9
+      },
+      {
+        "shotId": 2,
+        "club": "3-Iron",
+        "ballSpeed": 161.6,
+        "launchAngle": 12.7,
+        "distance": 237.1,
+        "spinRate": 3900,
+        "carryDistance": 227.6,
+        "peakHeight": 83.9,
+        "landingAngle": 42.0
+      },
+      {
+        "shotId": 3,
+        "club": "7-Iron",
+        "ballSpeed": 125.7,
+        "launchAngle": 17.6,
+        "distance": 173.2,
+        "spinRate": 6990,
+        "carryDistance": 167.0,
+        "peakHeight": 87.6,
+        "landingAngle": 49.3
+      },
+      {
+        "shotId": 4,
+        "club": "5-Iron",
+        "ballSpeed": 148.1,
+        "launchAngle": 14.2,
+        "distance": 211.4,
+        "spinRate": 4930,
+        "carryDistance": 204.0,
+        "peakHeight": 93.8,
+        "landingAngle": 45.5
+      },
+      {
+        "shotId": 5,
+        "club": "Driver",
+        "ballSpeed": 177.9,
+        "launchAngle": 10.5,
+        "distance": 276.8,
+        "spinRate": 2670,
+        "carryDistance": 257.1,
+        "peakHeight": 98.4,
+        "landingAngle": 38.5
+      }
+    ]
+  },
+  "message": "Player fetched successfully",
+  "timestamp": "2025-01-15T08:00:00Z"
+}
