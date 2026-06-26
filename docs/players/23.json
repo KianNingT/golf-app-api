@@ -1,0 +1,80 @@
+{
+  "data": {
+    "id": 23,
+    "name": "Sungjae Im",
+    "country": "South Korea",
+    "club": "7-Iron",
+    "avatarUrl": "https://i.pravatar.cc/150?img=23",
+    "averageSpeed": 168.7,
+    "averageDistance": 249.6,
+    "totalShots": 328,
+    "bio": "South Korean star known for his tireless work ethic, playing the most rounds on tour and remarkable consistency.",
+    "age": 26,
+    "turnsProYear": 2019,
+    "majorWins": 0,
+    "totalWins": 4,
+    "scoringAverage": 69.9,
+    "greensInRegulation": 66.1,
+    "drivingAccuracy": 64.6,
+    "puttingAverage": 1.77,
+    "shots": [
+      {
+        "shotId": 1,
+        "club": "7-Iron",
+        "ballSpeed": 122.4,
+        "launchAngle": 18.4,
+        "distance": 168.1,
+        "spinRate": 7310,
+        "carryDistance": 162.0,
+        "peakHeight": 85.0,
+        "landingAngle": 51.1
+      },
+      {
+        "shotId": 2,
+        "club": "Driver",
+        "ballSpeed": 168.7,
+        "launchAngle": 11.8,
+        "distance": 252.8,
+        "spinRate": 2870,
+        "carryDistance": 233.5,
+        "peakHeight": 93.7,
+        "landingAngle": 40.4
+      },
+      {
+        "shotId": 3,
+        "club": "5-Iron",
+        "ballSpeed": 144.3,
+        "launchAngle": 15.0,
+        "distance": 202.7,
+        "spinRate": 5170,
+        "carryDistance": 195.5,
+        "peakHeight": 90.1,
+        "landingAngle": 47.0
+      },
+      {
+        "shotId": 4,
+        "club": "7-Iron",
+        "ballSpeed": 123.6,
+        "launchAngle": 18.1,
+        "distance": 169.6,
+        "spinRate": 7140,
+        "carryDistance": 163.5,
+        "peakHeight": 85.8,
+        "landingAngle": 50.5
+      },
+      {
+        "shotId": 5,
+        "club": "3-Iron",
+        "ballSpeed": 157.9,
+        "launchAngle": 13.4,
+        "distance": 229.3,
+        "spinRate": 4100,
+        "carryDistance": 219.7,
+        "peakHeight": 81.2,
+        "landingAngle": 43.6
+      }
+    ]
+  },
+  "message": "Player fetched successfully",
+  "timestamp": "2025-01-15T08:00:00Z"
+}
